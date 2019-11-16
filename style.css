@@ -81,6 +81,8 @@ body {
     display: inline-block;
     padding-left: 15px;
     margin-left: 15px;
+    padding-right: 15px;
+    margin-right: 15px;
     line-height: 18px;
     color: #999;
     text-decoration: none;
